@@ -12,6 +12,10 @@ Made using Flutter❤️
 
 ## <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="300"></a>
 
+### ⬇️ Downlaod
+
+For Android: [Whatsapp Status Saver](https://appho.st/d/J02CH4Tq "https://appho.st/d/J02CH4Tq")
+
 <img src="https://github.com/swapnilpingale22/Flutter-Whatsapp-Status-Saver/assets/132128463/3cf25583-e374-4c04-8711-27902f39b0fa" width="300" height="550" />
 
 ## Packages used
